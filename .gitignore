@@ -1,0 +1,5 @@
+gallery-env/
+__pycache__/
+*.pyc
+.env
+*.pem
